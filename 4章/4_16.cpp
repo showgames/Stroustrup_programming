@@ -37,4 +37,5 @@ main()
 
     // 最頻値の出力
     cout << "mode: " << mode << "\n";
+    cout << count << " times" << "\n";
 }
